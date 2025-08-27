@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.wrapper {
+  @apply max-w-7xl mx-auto px-10;
+}
+
+body {
+  @apply font-plusJakarta overflow-x-hidden scroll-smooth;
+}
+
+* {
+  @apply scroll-smooth;
+}
