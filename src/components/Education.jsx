@@ -44,7 +44,7 @@ const Education = () => {
                   {" "}
                   SMA Negeri 5 Purwokerto
                 </h1>
-                <p>2018-2021</p>
+                <p>2018 - 2021</p>
               </div>
               <p className="text-xl pt-4">Mathematics and Natural Science</p>
             </div>

@@ -8,6 +8,7 @@ import {
 } from "react-icons/fa";
 import { SiJavascript } from "react-icons/si";
 import { RiTailwindCssFill } from "react-icons/ri";
+import { AiOutlineDotNet } from "react-icons/ai";
 
 export const skillsData = [
   {
@@ -41,5 +42,9 @@ export const skillsData = [
   {
     name: "React JS",
     icon: <FaReact className="text-cyan-400" />,
+  },
+  {
+    name: "ASP .Net Core",
+    icon: <AiOutlineDotNet className="text-[#512BD4] text-4xl" />,
   },
 ];
