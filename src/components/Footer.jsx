@@ -55,7 +55,7 @@ const Footer = () => {
             <div className="flex justify-center mt-20">
               <div className="flex items-center gap-10">
                 <a
-                  href="https://github.com/rafaelbilly"
+                  href="https://github.com/rafbill20"
                   target="_blank"
                   className="bg-second  hover:scale-90 duration-150 p-3 text-3xl rounded-full"
                 >

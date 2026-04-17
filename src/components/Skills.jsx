@@ -1,5 +1,4 @@
 import { PiShootingStar } from "react-icons/pi";
-
 import { skillsData } from "../constants/skillsData";
 
 const Skills = () => {

@@ -195,7 +195,9 @@ const Hero = () => {
               </p>
 
               <a
-                href="https://drive.google.com/file/d/1F3lzFlRL6fLvuQ_DLzFZznwIm7PvB-IW/view?usp=sharing"
+                href="https://drive.google.com/file/d/1BQnR5DxT85zCoyGM_T8cbkMCVfLAWcdF/view?usp=sharing"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="text-lg relative z-[999] px-6 py-2 rounded-md bg-second border-t-2 border-l-2 shadow-xl shadow-[#D011CC]/10 border-white w-fit"
               >
                 See My Resume
